@@ -1,26 +1,49 @@
-# Student Information System
+# 🎓 Student Information System (with GitHub Integration)
 
-A small CLI-based Student Information System demonstrating:
-- CRUD operations (JSON persistence)
-- Modular design and configuration
-- Logging and error handling
-- Unit tests and CI (GitHub Actions)
+**Developer:** Marielle Pearl Prestoza  
+**Course Project:** Cloud Computing - Student Information System  
+**Language:** Python  
+**Version Control:** Git & GitHub  
 
-## Features
-- Add, view, update, delete students
-- Data stored in `data/students.json`
-- Configurable via `config/config.json`
-- Logging to `logs/app.log`
-- Tests with `pytest` and CI via GitHub Actions
+---
 
-## Project structure
-(briefly show tree)
+## 📘 Overview
+The **Student Information System (SIS)** is a Python-based console application that allows users to manage student data efficiently.  
+It demonstrates **cloud-ready architecture**, **configuration management**, and **GitHub version control best practices**.
 
-## Setup (local)
-```bash
-git clone <your-repo-url>
-cd student-info-system
-python -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
-pip install -r requirements.txt
-python src/main.py
+This project implements **CRUD operations** (Create, Read, Update, Delete) for student records stored in a **JSON file**, with built-in **logging**, **error handling**, and **unit testing** for reliability.
+
+---
+
+## 🚀 Features
+
+### 🧑‍🎓 Student Data Management
+- ➕ **Add new students**  
+- 👀 **View student records**  
+- ✏️ **Update student information**  
+- ❌ **Delete student records**  
+- 💾 **Store data in JSON format**
+
+### ☁️ Cloud-Ready Architecture
+- Modular structure (Models, Services, Utils)
+- Centralized configuration file (`config/config.json`)
+- Logging system (`logs/app.log`)
+- Comprehensive error handling
+
+### 🧰 GitHub Integration
+- Organized repository structure  
+- Meaningful commit messages  
+- Feature branches & Pull Requests  
+- CI workflow using **GitHub Actions**  
+- Professional **README documentation**
+
+### 🧪 Code Quality & Testing
+- Clean, readable, and modular code  
+- Inline comments and docstrings  
+- Automated tests with `pytest`  
+- Continuous Integration (CI) pipeline  
+
+---
+
+## 📂 Project Structure
+
