@@ -42,9 +42,3 @@ This project implements **CRUD operations** (Create, Read, Update, Delete) for s
 - Inline comments and docstrings  
 - Automated tests with `pytest`  
 - Continuous Integration (CI) pipeline  
-
----
-
-## 📂 Project Structure
-
-
