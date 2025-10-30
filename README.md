@@ -1,4 +1,4 @@
-# Student Information System (with GitHub Integration)
+# Student Information System 
 
 **Developer:** Marielle Pearl Prestoza  
 **Course Project:** Cloud Computing - Student Information System  
@@ -42,3 +42,4 @@ This project implements **CRUD operations** (Create, Read, Update, Delete) for s
 - Inline comments and docstrings  
 - Automated tests with `pytest`  
 - Continuous Integration (CI) pipeline  
+
